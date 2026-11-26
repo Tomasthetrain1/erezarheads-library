@@ -14,14 +14,9 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This projects aims to collect and present the works of Eraserhead. We their  works relevant because… 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
-
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
-
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+This database was developed by Chrisden Tomas, Ronan Rayos, Aldrin Beltran, and Anna Liza Rubio in partial fulfillment of the requirements for the subject ART003: Arts Appreciation (1st Semester, AY 2026–2027) under the guidance of Prof. Adrian Mendizabal.
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 {% include cb/about_the_about.md %} 
